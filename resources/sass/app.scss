@@ -1,0 +1,70 @@
+@use "sass:math";
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+@import "../assets/vendor/bootstrap/css/bootstrap.min.css";
+@import "../assets/vendor/font-awesome/css/font-awesome.min.css";
+@import "../assets/vendor/ionicons/css/ionicons.min.css";
+@import "../assets/vendor/owl.carousel/assets/owl.carousel.min.css";
+@import "../assets/vendor/venobox/venobox.css";
+@import "../assets/css/style.css";
+
+body {
+    background-color: white;
+    overflow-x: hidden;
+}
+
+/* 
+  Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) 
+  */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) 
+  */
+
+@media only screen and (min-width: 992px) {
+    .logo {
+        img {
+            width: 150px;
+            height: 150px;
+        }
+    }
+    .nav-div {
+        background-color: black;
+    }
+    .nav-ul {
+        list-style-type: none;
+        color: white;
+    }
+}
+
+/* Extra large devices (large 
+  laptops and desktops, 
+  1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .nav-ul {
+        list-style-type: none;
+    }
+}
+
+/* Extra large devices (large 
+  laptops and desktops, 
+  1200px and up) */
+@media only screen and (min-width: 1441px) {
+}
