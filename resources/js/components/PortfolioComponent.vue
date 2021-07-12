@@ -18,9 +18,9 @@
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="url('./url('./assets/img/work-1.jpg')')" data-gall="portfolioGallery" class="venobox">
+              <a href="/assets/img/work-1.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="url('./url('./assets/img/work-1.jpg')')" alt="" class="img-fluid">
+                  <img src="/assets/img/work-1.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -42,9 +42,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="url('./assets/img/work-2.jpg')" data-gall="portfolioGallery" class="venobox">
+              <a href="/assets/img/work-2.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="url('./assets/img/work-2.jpg')" alt="" class="img-fluid">
+                  <img src="/assets/img/work-2.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -66,9 +66,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="url('./assets/img/work-3.jpg')" data-gall="portfolioGallery" class="venobox">
+              <a href="/assets/img/work-3.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="url('./assets/img/work-3.jpg')" alt="" class="img-fluid">
+                  <img src="/assets/img/work-3.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -90,9 +90,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="url('./assets/img/work-4.jpg')" data-gall="portfolioGallery" class="venobox">
+              <a href="/assets/img/work-4.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="url('./assets/img/work-4.jpg')" alt="" class="img-fluid">
+                  <img src="/assets/img/work-4.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -114,9 +114,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="url('./assets/img/work-5.jpg')" data-gall="portfolioGallery" class="venobox">
+              <a href="/assets/img/work-5.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="url('./assets/img/work-5.jpg')" alt="" class="img-fluid">
+                  <img src="/assets/img/work-5.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -138,9 +138,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="url('./assets/img/work-6.jpg')" data-gall="portfolioGallery" class="venobox">
+              <a href="assets/img/work-6.jpg" data-gall="portfolioGallery" class="venobox">
                 <div class="work-img">
-                  <img src="url('./assets/img/work-6.jpg')" alt="" class="img-fluid">
+                  <img src="/assets/img/work-6.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">

@@ -1924,6 +1924,14 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -1939,6 +1947,37 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -39422,7 +39461,7 @@ var staticRenderFns = [
                           _c("img", {
                             staticClass: "img-fluid rounded b-shadow-a",
                             attrs: {
-                              src: "url('./assets/img/testimonial-2.jpg')",
+                              src: "/assets/img/testimonial-2.jpg",
                               alt: ""
                             }
                           })
@@ -39436,7 +39475,7 @@ var staticRenderFns = [
                               _vm._v("Name: ")
                             ]),
                             _vm._v(" "),
-                            _c("span", [_vm._v("Morgan Freeman")])
+                            _c("span", [_vm._v("Muhammad Hamza Wazir")])
                           ]),
                           _vm._v(" "),
                           _c("p", [
@@ -39452,7 +39491,18 @@ var staticRenderFns = [
                               _vm._v("Email: ")
                             ]),
                             _vm._v(" "),
-                            _c("span", [_vm._v("contact@example.com")])
+                            _c("span", [
+                              _c(
+                                "a",
+                                {
+                                  staticStyle: { color: "black" },
+                                  attrs: {
+                                    href: "mailto:mhamzawazir1996@gmail.com"
+                                  }
+                                },
+                                [_vm._v("mhamzawazir1996@gmail.com")]
+                              )
+                            ])
                           ]),
                           _vm._v(" "),
                           _c("p", [
@@ -39460,7 +39510,16 @@ var staticRenderFns = [
                               _vm._v("Phone: ")
                             ]),
                             _vm._v(" "),
-                            _c("span", [_vm._v("(617) 557-0089")])
+                            _c("span", [
+                              _c(
+                                "a",
+                                {
+                                  staticStyle: { color: "black" },
+                                  attrs: { href: "tel:+923475481102" }
+                                },
+                                [_vm._v("+923475481102")]
+                              )
+                            ])
                           ])
                         ])
                       ])
@@ -39510,6 +39569,44 @@ var staticRenderFns = [
                       _c("span", [_vm._v("PHP")]),
                       _vm._v(" "),
                       _c("span", { staticClass: "pull-right" }, [
+                        _vm._v("95%")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "progress" }, [
+                        _c("div", {
+                          staticClass: "progress-bar",
+                          staticStyle: { width: "95%" },
+                          attrs: {
+                            role: "progressbar",
+                            "aria-valuenow": "95",
+                            "aria-valuemin": "0",
+                            "aria-valuemax": "100"
+                          }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("JAVASCRIPT")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "pull-right" }, [
+                        _vm._v("90%")
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "progress" }, [
+                        _c("div", {
+                          staticClass: "progress-bar",
+                          staticStyle: { width: "90%" },
+                          attrs: {
+                            role: "progressbar",
+                            "aria-valuenow": "90",
+                            "aria-valuemin": "0",
+                            "aria-valuemax": "100"
+                          }
+                        })
+                      ]),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("Python")]),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "pull-right" }, [
                         _vm._v("50%")
                       ]),
                       _vm._v(" "),
@@ -39526,7 +39623,7 @@ var staticRenderFns = [
                         })
                       ]),
                       _vm._v(" "),
-                      _c("span", [_vm._v("JAVASCRIPT")]),
+                      _c("span", [_vm._v("Laravel")]),
                       _vm._v(" "),
                       _c("span", { staticClass: "pull-right" }, [
                         _vm._v("90%")
@@ -39644,7 +39741,7 @@ var staticRenderFns = [
                   _c("a", { attrs: { href: "blog-single.html" } }, [
                     _c("img", {
                       staticClass: "img-fluid",
-                      attrs: { src: "url('assets/img/post-1.jpg')", alt: "" }
+                      attrs: { src: "/assets/img/post-1.jpg", alt: "" }
                     })
                   ])
                 ]),
@@ -39674,10 +39771,7 @@ var staticRenderFns = [
                     _c("a", { attrs: { href: "#" } }, [
                       _c("img", {
                         staticClass: "avatar rounded-circle",
-                        attrs: {
-                          src: "url('assets/img/testimonial-2.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/testimonial-2.jpg", alt: "" }
                       }),
                       _vm._v(" "),
                       _c("span", { staticClass: "author" }, [
@@ -39700,7 +39794,7 @@ var staticRenderFns = [
                   _c("a", { attrs: { href: "blog-single.html" } }, [
                     _c("img", {
                       staticClass: "img-fluid",
-                      attrs: { src: "url('assets/img/post-2.jpg')", alt: "" }
+                      attrs: { src: "/assets/img/post-2.jpg", alt: "" }
                     })
                   ])
                 ]),
@@ -39732,10 +39826,7 @@ var staticRenderFns = [
                     _c("a", { attrs: { href: "#" } }, [
                       _c("img", {
                         staticClass: "avatar rounded-circle",
-                        attrs: {
-                          src: "url('/assets/img/testimonial-2.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/testimonial-2.jpg", alt: "" }
                       }),
                       _vm._v(" "),
                       _c("span", { staticClass: "author" }, [
@@ -39758,7 +39849,7 @@ var staticRenderFns = [
                   _c("a", { attrs: { href: "blog-single.html" } }, [
                     _c("img", {
                       staticClass: "img-fluid",
-                      attrs: { src: "url('./assets/img/post-3.jpg')", alt: "" }
+                      attrs: { src: "/assets/img/post-3.jpg", alt: "" }
                     })
                   ])
                 ]),
@@ -39790,10 +39881,60 @@ var staticRenderFns = [
                     _c("a", { attrs: { href: "#" } }, [
                       _c("img", {
                         staticClass: "avatar rounded-circle",
-                        attrs: {
-                          src: "url('./assets/img/testimonial-2.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "assets/img/testimonial-2.jpg", alt: "" }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "author" }, [
+                        _vm._v("Morgan Freeman")
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "post-date" }, [
+                    _c("span", { staticClass: "ion-ios-clock-outline" }),
+                    _vm._v(" 10 min\n            ")
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-4" }, [
+              _c("div", { staticClass: "card card-blog" }, [
+                _c("div", { staticClass: "card-img" }, [
+                  _c("a", { attrs: { href: "blog-single.html" } }, [
+                    _c("img", {
+                      staticClass: "img-fluid",
+                      attrs: { src: "/assets/img/post-1.jpg", alt: "" }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "card-body" }, [
+                  _c("div", { staticClass: "card-category-box" }, [
+                    _c("div", { staticClass: "card-category" }, [
+                      _c("h6", { staticClass: "category" }, [_vm._v("Travel")])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("h3", { staticClass: "card-title" }, [
+                    _c("a", { attrs: { href: "blog-single.html" } }, [
+                      _vm._v("See more ideas about Travel")
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", { staticClass: "card-description" }, [
+                    _vm._v(
+                      "\n              Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis\n              a pellentesque nec,\n              egestas non nisi.\n            "
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "card-footer" }, [
+                  _c("div", { staticClass: "post-author" }, [
+                    _c("a", { attrs: { href: "#" } }, [
+                      _c("img", {
+                        staticClass: "avatar rounded-circle",
+                        attrs: { src: "/assets/img/testimonial-2.jpg", alt: "" }
                       }),
                       _vm._v(" "),
                       _c("span", { staticClass: "author" }, [
@@ -40016,17 +40157,35 @@ var staticRenderFns = [
                           _c("ul", { staticClass: "list-ico" }, [
                             _c("li", [
                               _c("span", { staticClass: "ion-ios-location" }),
-                              _vm._v(" 329 WASHINGTON ST BOSTON, MA 02108")
+                              _vm._v(" I-8/4 Islamabad, Pakistan")
                             ]),
                             _vm._v(" "),
                             _c("li", [
                               _c("span", { staticClass: "ion-ios-telephone" }),
-                              _vm._v(" (617) 557-0089")
+                              _vm._v(" "),
+                              _c(
+                                "a",
+                                {
+                                  staticStyle: { color: "black" },
+                                  attrs: { href: "tel:+923475481102" }
+                                },
+                                [_vm._v("+923475481102")]
+                              )
                             ]),
                             _vm._v(" "),
                             _c("li", [
                               _c("span", { staticClass: "ion-email" }),
-                              _vm._v(" contact@example.com")
+                              _vm._v(" "),
+                              _c(
+                                "a",
+                                {
+                                  staticStyle: { color: "black" },
+                                  attrs: {
+                                    href: "mailto:mhamzawazir1996@gmail.com"
+                                  }
+                                },
+                                [_vm._v("mhamzawazir1996@gmail.com")]
+                              )
                             ])
                           ])
                         ]),
@@ -40065,7 +40224,7 @@ var staticRenderFns = [
                               _c("a", { attrs: { href: "" } }, [
                                 _c("span", { staticClass: "ico-circle" }, [
                                   _c("i", {
-                                    staticClass: "ion-social-pinterest"
+                                    staticClass: "ion-social-linkedin"
                                   })
                                 ])
                               ])
@@ -40624,7 +40783,7 @@ var staticRenderFns = [
                   {
                     staticClass: "venobox",
                     attrs: {
-                      href: "url('./url('./assets/img/work-1.jpg')')",
+                      href: "/assets/img/work-1.jpg",
                       "data-gall": "portfolioGallery"
                     }
                   },
@@ -40632,10 +40791,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "work-img" }, [
                       _c("img", {
                         staticClass: "img-fluid",
-                        attrs: {
-                          src: "url('./url('./assets/img/work-1.jpg')')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/work-1.jpg", alt: "" }
                       })
                     ])
                   ]
@@ -40678,7 +40834,7 @@ var staticRenderFns = [
                   {
                     staticClass: "venobox",
                     attrs: {
-                      href: "url('./assets/img/work-2.jpg')",
+                      href: "/assets/img/work-2.jpg",
                       "data-gall": "portfolioGallery"
                     }
                   },
@@ -40686,10 +40842,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "work-img" }, [
                       _c("img", {
                         staticClass: "img-fluid",
-                        attrs: {
-                          src: "url('./assets/img/work-2.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/work-2.jpg", alt: "" }
                       })
                     ])
                   ]
@@ -40732,7 +40885,7 @@ var staticRenderFns = [
                   {
                     staticClass: "venobox",
                     attrs: {
-                      href: "url('./assets/img/work-3.jpg')",
+                      href: "/assets/img/work-3.jpg",
                       "data-gall": "portfolioGallery"
                     }
                   },
@@ -40740,10 +40893,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "work-img" }, [
                       _c("img", {
                         staticClass: "img-fluid",
-                        attrs: {
-                          src: "url('./assets/img/work-3.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/work-3.jpg", alt: "" }
                       })
                     ])
                   ]
@@ -40786,7 +40936,7 @@ var staticRenderFns = [
                   {
                     staticClass: "venobox",
                     attrs: {
-                      href: "url('./assets/img/work-4.jpg')",
+                      href: "/assets/img/work-4.jpg",
                       "data-gall": "portfolioGallery"
                     }
                   },
@@ -40794,10 +40944,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "work-img" }, [
                       _c("img", {
                         staticClass: "img-fluid",
-                        attrs: {
-                          src: "url('./assets/img/work-4.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/work-4.jpg", alt: "" }
                       })
                     ])
                   ]
@@ -40840,7 +40987,7 @@ var staticRenderFns = [
                   {
                     staticClass: "venobox",
                     attrs: {
-                      href: "url('./assets/img/work-5.jpg')",
+                      href: "/assets/img/work-5.jpg",
                       "data-gall": "portfolioGallery"
                     }
                   },
@@ -40848,10 +40995,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "work-img" }, [
                       _c("img", {
                         staticClass: "img-fluid",
-                        attrs: {
-                          src: "url('./assets/img/work-5.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/work-5.jpg", alt: "" }
                       })
                     ])
                   ]
@@ -40894,7 +41038,7 @@ var staticRenderFns = [
                   {
                     staticClass: "venobox",
                     attrs: {
-                      href: "url('./assets/img/work-6.jpg')",
+                      href: "assets/img/work-6.jpg",
                       "data-gall": "portfolioGallery"
                     }
                   },
@@ -40902,10 +41046,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "work-img" }, [
                       _c("img", {
                         staticClass: "img-fluid",
-                        attrs: {
-                          src: "url('./assets/img/work-6.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/work-6.jpg", alt: "" }
                       })
                     ])
                   ]
@@ -41247,10 +41388,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "author-test" }, [
                       _c("img", {
                         staticClass: "rounded-circle b-shadow-a",
-                        attrs: {
-                          src: "url('./assets/img/testimonial-2.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/testimonial-2.jpg", alt: "" }
                       }),
                       _vm._v(" "),
                       _c("span", { staticClass: "author" }, [
@@ -41275,10 +41413,7 @@ var staticRenderFns = [
                     _c("div", { staticClass: "author-test" }, [
                       _c("img", {
                         staticClass: "rounded-circle b-shadow-a",
-                        attrs: {
-                          src: "url('./assets/img/testimonial-4.jpg')",
-                          alt: ""
-                        }
+                        attrs: { src: "/assets/img/testimonial-4.jpg", alt: "" }
                       }),
                       _vm._v(" "),
                       _c("span", { staticClass: "author" }, [

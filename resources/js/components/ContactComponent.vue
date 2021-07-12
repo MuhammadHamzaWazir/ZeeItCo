@@ -67,9 +67,9 @@
                         mollitia inventore?
                       </p>
                       <ul class="list-ico">
-                        <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                        <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                        <li><span class="ion-email"></span> contact@example.com</li>
+                        <li><span class="ion-ios-location"></span> I-8/4 Islamabad, Pakistan</li>
+                        <li><span class="ion-ios-telephone"></span> <a href="tel:+923475481102" style="color:black;">+923475481102</a></li>
+                        <li><span class="ion-email"></span> <a href="mailto:mhamzawazir1996@gmail.com" style="color:black;">mhamzawazir1996@gmail.com</a></li>
                       </ul>
                     </div>
                     <div class="socials">
@@ -77,7 +77,7 @@
                         <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
                         <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
                         <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                        <li><a href=""><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>

@@ -8,7 +8,7 @@
             <div id="testimonial-mf" class="owl-carousel owl-theme">
               <div class="testimonial-box">
                 <div class="author-test">
-                  <img src="url('./assets/img/testimonial-2.jpg')" alt="" class="rounded-circle b-shadow-a">
+                  <img src="/assets/img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
                   <span class="author">Xavi Alonso</span>
                 </div>
                 <div class="content-test">
@@ -21,7 +21,7 @@
               </div>
               <div class="testimonial-box">
                 <div class="author-test">
-                  <img src="url('./assets/img/testimonial-4.jpg')" alt="" class="rounded-circle b-shadow-a">
+                  <img src="/assets/img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
                   <span class="author">Marta Socrate</span>
                 </div>
                 <div class="content-test">
