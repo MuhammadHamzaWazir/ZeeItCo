@@ -39461,7 +39461,7 @@ var staticRenderFns = [
                           _c("img", {
                             staticClass: "img-fluid rounded b-shadow-a",
                             attrs: {
-                              src: "/assets/img/testimonial-2.jpg",
+                              src: "/assets/img/testimonial-3.jpg",
                               alt: ""
                             }
                           })
@@ -41306,7 +41306,7 @@ var staticRenderFns = [
       "div",
       {
         staticClass: "intro route bg-image",
-        staticStyle: { "background-image": "url(./assets/img/intro-bg.jpg)" },
+        staticStyle: { "background-image": "url(./assets/img/intro-bg3.jpg)" },
         attrs: { id: "home" }
       },
       [
@@ -41322,7 +41322,7 @@ var staticRenderFns = [
               _c("p", { staticClass: "intro-subtitle" }, [
                 _c("span", { staticClass: "text-slider-items" }, [
                   _vm._v(
-                    "CEO DevFolio,Web Developer,Web Designer,Frontend Developer,Graphic Designer"
+                    "CEO Zeeitco,Web Developer,Web Designer,Frontend Developer,Graphic Designer"
                   )
                 ]),
                 _c("strong", { staticClass: "text-slider" })
